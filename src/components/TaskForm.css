@@ -1,0 +1,31 @@
+.newTask{
+    margin-bottom: 8px;
+    font-size: xx-large;
+}
+
+input{
+    width: 200px;
+    font-family: 'Inter', Courier, monospace;
+    font-size: medium;
+    padding: 5px;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+
+.submit-button {
+    background-color: #FFA500; /* Orange background */
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+  
+  .submit-button:hover {
+    background-color: #FF8C00; /* Darker orange background on hover */
+  }
+  
